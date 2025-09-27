@@ -50,7 +50,7 @@ int main() {
         printf("\n"); // Linha em branco para melhor visualização das informações inseridas 
     }
 
-    // Exibição dos dados cadastrados
+    // Exibição dos todos dados cadastrados
     printf("\n=== Dados dos Territórios Cadastrados ===\n");
     for (int i = 0; i < 5; i++) {
         printf("\nTerritório %d:\n", i + 1);
